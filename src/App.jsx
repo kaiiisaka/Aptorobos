@@ -6,7 +6,7 @@ import bgRobot from "./assets/bgRobot.png"
 function App() {
 
   return (
-    <div className="App h-screen w-screen bg-cover" style={{backgroundImage: `url(${bgRobot})`}}>
+    <div className="App min-h-screen h-full bg-scroll bg-origin-border bg-cover" style={{backgroundImage: `url(${bgRobot})`}}>
         <BrowserRouter>
             <Navbar />
             <AppRouter />
