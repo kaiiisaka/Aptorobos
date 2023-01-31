@@ -11,7 +11,7 @@ const Snakefish = () => {
                     Snakefish#9259
                 </h1>
             </div>
-            <div className='bg-gradient-to-r from-purple-500 to-pink-500 w-3/4 sm:w-1/4 rounded-3xl hover:opacity-70'>
+            <div className='bg-gradient-to-r from-purple-500 to-pink-500 w-3/4 sm:w-1/2 rounded-3xl hover:opacity-70'>
                 <p className='p-3 text-white font-bold'>
                     My name is Alex, but you probably know me as snakefish.
                     I am a big fan of NFT art, a programmer and I am very
